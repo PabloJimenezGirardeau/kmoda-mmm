@@ -112,7 +112,7 @@ Con el mismo presupuesto (~212.000 EUR/semana), la redistribución óptima segú
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/pablojimgir/kmoda-mmm.git
+git clone https://github.com/PabloJimenezGirardeau/kmoda-mmm.git
 cd kmoda-mmm
 
 # Crear entorno virtual
