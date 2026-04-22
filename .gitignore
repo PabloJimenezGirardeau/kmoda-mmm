@@ -1,0 +1,21 @@
+# Datos originales (no subir al repo)
+*.csv
+casos_practicos.pdf
+
+# Entorno virtual
+venv_kmoda/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Datos generados (opcionales — comentar para incluirlos)
+# data/
+# img/
+
+# IDE
+.vscode/
+.idea/
