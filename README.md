@@ -23,7 +23,7 @@ En un entorno post-cookie donde el tracking individual ya no es viable, el MMM e
 
 ## Demo
 
-🚀 **[Abrir dashboard en Streamlit](https://kmoda-mmm.streamlit.app)** *(coming soon)*
+🚀 **[Abrir dashboard en Streamlit](https://kmoda-mmm.streamlit.app)**
 
 ---
 
