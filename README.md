@@ -25,6 +25,8 @@ En un entorno post-cookie donde el tracking individual ya no es viable, el MMM e
 
 🚀 **[Abrir dashboard en Streamlit](https://kmoda-mmm.streamlit.app)**
 
+📁 **[Repositorio en GitHub](https://github.com/PabloJimenezGirardeau/kmoda-mmm)**
+
 ---
 
 ## Resultados del modelo
